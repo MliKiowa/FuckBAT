@@ -1,0 +1,202 @@
+# baidu
+baidu.com 127.0.0.1
+www.baidu.com 127.0.0.1
+# baidu passport
+passport.baidu.com 127.0.0.1
+# baidu static
+hmcdn.baidu.com 127.0.0.1
+cpro.bdstatic.com 127.0.0.1
+code.bdstatic.com 127.0.0.1
+b.bdstatic.com 127.0.0.1
+sofire.bdstatic.com 127.0.0.1
+fex.bdstatic.com 127.0.0.1
+ss0.bdstatic.com 127.0.0.1
+pss.bdstatic.com 127.0.0.1
+dss2.bdstatic.com 127.0.0.1
+dgss0.bdstatic.com 127.0.0.1
+dgss1.bdstatic.com 127.0.0.1
+dgss2.bdstatic.com 127.0.0.1
+dgss3.bdstatic.com 127.0.0.1
+gss0.bdstatic.com 127.0.0.1
+hectorstatic.baidu.com 127.0.0.1
+# baidu report
+ss0.baidu.com 127.0.0.1
+ss1.baidu.com 127.0.0.1
+sp1.baidu.com 127.0.0.1
+pos.baidu.com 127.0.0.1
+f7.baidu.com 127.0.0.1
+gips2.baidu.com 127.0.0.1
+eclick.baidu.com 127.0.0.1
+hm.baidu.com 127.0.0.1
+# other baidu (hao123)
+www.hao123.com 127.0.0.1
+as1.m.hao123.com 127.0.0.1
+hao123-static.cdn.bcebos.com 127.0.0.1
+shield.hao123.com 127.0.0.1
+# other baidu (news)
+news.baidu.com 127.0.0.1
+news-bos.cdn.bcebos.com 127.0.0.1
+#  other baidu (map)
+map.baidu.com 127.0.0.1
+webmap0.bdimg.com 127.0.0.1
+webmap1.bdimg.com 127.0.0.1
+mapsv0.map.baidu.com 127.0.0.1
+# other baidu (haokan)
+haokan.baidu.com 127.0.0.1
+# other baidu (pan xx盘)
+pan.baidu.com 127.0.0.1
+# other baidu (translation xx翻译)
+fanyi.baidu.com 127.0.0.1
+fanyi-pro.baidu.com 127.0.0.1
+# other baidu (xx 学术)
+xueshu.baidu.com 127.0.0.1
+# other baidu (xx 文库)
+wenku.baidu.com 127.0.0.1
+# other baidu (xx 百科)
+baike.baidu.com 127.0.0.1
+# other baidu (xx 健康)
+jiankang.baidu.com 127.0.0.1
+# other baidu (xx 音乐)
+music.91q.com 127.0.0.1
+# other baidu (xx 直播)
+live.baidu.com 127.0.0.1
+# other baidu (xx 大脑)
+ai.baidu.com 127.0.0.1
+# other baidu (xx 观星盘)
+cdp.baidu.com 127.0.0.1
+# other baidu (xx 营销)
+e.baidu.com 127.0.0.1
+aifanfan.baidu.com 127.0.0.1
+# other baidu (爱企查)
+aiqicha.baidu.com 127.0.0.1
+# other baidu (小度)
+dumall.baidu.com 127.0.0.1
+# other baidu (简单搜索)
+secr.baidu.com 127.0.0.1
+# other baidu (xx 技术)
+bit.baidu.com 127.0.0.1
+# other baidu (xx 建站)
+aipage.baidu.com 127.0.0.1
+# other baidu (一时相册)
+photo.baidu.com 127.0.0.1
+# other baidu (有驾)
+www.yoojia.com 127.0.0.1
+# other baidu (文心一言)
+yiyan.baidu.com 127.0.0.1
+# other baidu (百搜视频)
+v.xiaodutv.com 127.0.0.1
+# other baidu (xx 图片)
+image.baidu.com 127.0.0.1
+# other baidu (xx 识图)
+graph.baidu.com 127.0.0.1
+stu.baidu.com 127.0.0.1
+# other baidu (xx 招聘)
+zhaopin.baidu.com 127.0.0.1
+# other baidu (xx 取证)
+quzheng.baidu.com 127.0.0.1
+# other baidu (百家号)
+baijiahao.baidu.com 127.0.0.1
+# other baidu (DUEROS)
+duer.baidu.com 127.0.0.1
+# other baidu (xx 安全)
+anquan.baidu.com 127.0.0.1
+# other baidu (xx 文库)
+wenku.baidu.com 127.0.0.1
+# other baidu (xx五笔)
+wubi.baidu.com 127.0.0.1
+# other baidu (xx 输入法)
+shurufa.baidu.com 127.0.0.1
+# other baidu (xx 脑图)
+naoto.baidu.com 127.0.0.1
+# other baidu (xx 移动云测试 mtc)
+mtc.baidu.com 127.0.0.1
+# other baidu (xx push)
+push.baidu.com 127.0.0.1
+# other baidu (xx ssp媒体服务)
+ssp.baidu.com 127.0.0.1
+# other baidu (xx 语音)
+yuyin.baidu.com 127.0.0.1
+# other baidu (xx 云)
+cloud.baidu.com 127.0.0.1
+# other baidu (xx 云加速)
+su.baidu.com 127.0.0.1
+# other baidu (xx 精算)
+jingsuan.baidu.com 127.0.0.1
+# other baidu (xx 舆情)
+yuqing.baidu.com 127.0.0.1
+# other baidu (xx 商业服务)
+open2.baidu.com 127.0.0.1
+# other baidu (xx 云观测)
+ce.baidu.com 127.0.0.1
+# other baidu (xx 开发者)
+developer.baidu.com 127.0.0.1
+# other baidu (xx 移动统计)
+mtj.baidu.com 127.0.0.1
+# other baidu (xx 指数)
+index.baidu.com 127.0.0.1
+# other baidu (xx 热搜)
+top.baidu.com 127.0.0.1
+# other baidu (xx 联盟)
+union.baidu.com 127.0.0.1
+# other baidu (xx 统计)
+tongji.baidu.com 127.0.0.1
+# other baidu (xx 站长)
+zhanzhang.baidu.com 127.0.0.1
+# other baidu (xx 开放平台)
+open.baidu.com 127.0.0.1
+# other baidu (xx 手机卫士)
+shoujiweishi.baidu.com 127.0.0.1
+# other baidu (xx 手机助手)
+shouji.baidu.com 127.0.0.1
+# other baidu (xx 手机输入法)
+srf.baidu.com 127.0.0.1
+# other baidu (度小满理财)
+8.duxiaoman.com 127.0.0.1
+# other baidu (xx h5)
+h5.baidu.com 127.0.0.1
+# other baidu (xx 游戏开放平台)
+g.baidu.com 127.0.0.1
+# other baidu (xx 移动开放平台)
+app.baidu.com 127.0.0.1
+# other baidu (xx 游戏)
+youxi.baidu.com 127.0.0.1
+# other baidu (hao123 游戏)
+game.91.com 127.0.0.1
+# other baidu (xx 教育)
+easylearn.baidu.com 127.0.0.1
+# other baidu (xx 掘金平台)
+juejin.baidu.com 127.0.0.1
+# other baidu (xx 信誉)
+trust.baidu.com 127.0.0.1
+# other baidu (宝宝知道)
+baobao.baidu.com 127.0.0.1
+# other baidu (xx 社团赞助平台)
+cbbs.baidu.com 127.0.0.1
+# other baidu (康波财经)
+www.combofin.com 127.0.0.1
+# other baidu (xx 众测)
+test.baidu.com 127.0.0.1
+# other baidu (度小满2)
+www.dxmpay.com 127.0.0.1
+# other baidu (xx 经验)
+jingyan.baidu.com 127.0.0.1
+# other baidu (xx 知道)
+zhidao.baidu.com 127.0.0.1
+# other baidu (xx 贴吧)
+tieba.baidu.com 127.0.0.1
+# other baidu (xx 游戏)
+youxi.baidu.com 127.0.0.1
+# other baidu (unknown)
+dgss0.baidu.com 127.0.0.1
+dgss1.baidu.com 127.0.0.1
+dgss2.baidu.com 127.0.0.1
+dgss3.baidu.com 127.0.0.1
+gsp0.baidu.com 127.0.0.1
+contentcms-bj.cdn.bcebos.com 127.0.0.1
+efe-h2.cdn.bcebos.com 127.0.0.1
+t11.baidu.com 127.0.0.1
+zt.baidu.com 127.0.0.1
+
+# tencent
+qq.com 127.0.0.1
+www.qq.com 127.0.0.1
