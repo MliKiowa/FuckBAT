@@ -196,7 +196,3 @@ contentcms-bj.cdn.bcebos.com 127.0.0.1
 efe-h2.cdn.bcebos.com 127.0.0.1
 t11.baidu.com 127.0.0.1
 zt.baidu.com 127.0.0.1
-
-# tencent
-qq.com 127.0.0.1
-www.qq.com 127.0.0.1
